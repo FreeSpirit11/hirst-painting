@@ -14,6 +14,12 @@ This Python program uses Turtle graphics to create a unique and colorful artwork
 1.To run the program, make sure you have Python installed.
 2.Clone the repository and run the Python file "hirst_painting.py". The artwork will be displayed using the Turtle graphics module.
 
+## File Structure 
+
+- `hirst_painting.py`: The main Python script that generates the Hirst painting using Turtle graphics.
+- `image.jpg`: The image file used to extract colors for the painting (optional, generated with colorgram library).
+- `README.md`: The README file containing instructions and information about the project.
+
 ## Acknowledgments
 
 This project is inspired by the #100DaysOfCode challenge by Angela Yu.Special thanks to the Python Turtle graphics library for enabling the creation of artistic visualizations.
